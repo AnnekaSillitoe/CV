@@ -8,8 +8,8 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 I have been working on a variety of projects for clients, using the following technologies:
 
-Languages:		
-Javascript	
+Languages:
+Javascript
 Node.js
 HTML5
 CSS3
