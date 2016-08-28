@@ -1,6 +1,6 @@
 # CV - Anneka Sillitoe
 
-I am a developer who likes writing Javascript and Node.js. I enjoy working on different parts of the stack such as the front-end logic, querying databases and writing RESTful APIs. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. I am currently learning Go and finding it really fun.
+I am a developer who likes writing Javascript and Node.js. I enjoy working on different parts of the stack such as the front-end logic, querying databases and writing RESTful APIs. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements.
 
 Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming paradigms, and by studying the approaches of other developers.
 
