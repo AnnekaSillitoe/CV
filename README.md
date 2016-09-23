@@ -10,32 +10,32 @@ I have been working on a variety of projects for clients, using the following te
 
 Front-End Development:
 
-*Javascript
-*jQuery
-*HTML5
-*CSS3
-*React.js
-*Sass
-*Handlebars
-*Bootstrap
+* Javascript
+* jQuery
+* HTML5
+* CSS3
+* React.js
+* Sass
+* Handlebars
+* Bootstrap
 
 Back-End Development:
 
-*Node.js
-*Hapi.js
-*SQL
-*Postgres
-*Redis
-*RestAPIs
+* Node.js
+* Hapi.js
+* SQL
+* Postgres
+* Redis
+* RestAPIs
 
 Tools/Environments/Source:
 
-*Markdown
-*Git
-*Heroku
-*Tape
-*QUnit
-*TravisCl
+* Markdown
+* Git
+* Heroku
+* Tape
+* QUnit
+* TravisCl
 
 ## PROJECTS
 
