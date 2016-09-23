@@ -8,33 +8,34 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 I have been working on a variety of projects for clients, using the following technologies:
 
-Languages:
-Javascript
-Node.js
-HTML5
-CSS3
-SQL
-Markdown
-Handlebars
-Sass
+Front-End Development:
 
-Frameworks/Libraries:
-Hapi.js
-React.js
-jQuery
-Bootstrap
+*Javascript
+*jQuery
+*HTML5
+*CSS3
+*React.js
+*Sass
+*Handlebars
+*Bootstrap
 
-Testing:
-Tape
-QUnit
+Back-End Development:
 
-Tools/Others:
-Git
-Heroku
+*Node.js
+*Hapi.js
+*SQL
+*Postgres
+*Redis
+*RestAPIs
 
-Databases:
-PostgreSQL
-Redis
+Tools/Environments/Source:
+
+*Markdown
+*Git
+*Heroku
+*Tape
+*QUnit
+*TravisCl
 
 ## PROJECTS
 
