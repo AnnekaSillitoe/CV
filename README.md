@@ -100,8 +100,8 @@ Modules included, but were not limited to: Media Transformations, Network Societ
 
 ## LINKS
 
-LinkedIn | annekasillitoe@gmail.com | Twitter 
+[LinkedIn](https://uk.linkedin.com/in/annekasillitoe) | [Email](mailto:annekasillitoe@gmail.com) | [Twitter](https://twitter.com/annekasillitoe)
 
 ## INTERESTS
 
-Wrestling, Rock Music, Video games, Tech, WWE, Pokémon, Disney, Photography, Drumming, Going to gigs, Gym, Running, Formula One, Skatebaording, BMX, Rally, NBA basketball, Art, Design, Reading, Writing, Travel, Movies, TV, Books, Cooking, Fashion
+* * Wrestling, Rock Music, Video games, Tech, WWE, Pokémon, Disney, Photography, Drumming, Going to gigs, Gym, Running, Formula One, Skatebaording, BMX, Rally, NBA basketball, Art, Design, Reading, Writing, Travel, Movies, TV, Books, Cooking, Fashion
