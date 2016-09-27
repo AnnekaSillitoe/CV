@@ -100,7 +100,7 @@ Modules included, but were not limited to: Media Transformations, Network Societ
 
 ## LINKS
 
-[LinkedIn](https://uk.linkedin.com/in/annekasillitoe) | [Email](mailto:annekasillitoe@gmail.com) | [Twitter](https://twitter.com/annekasillitoe)
+[Website](https://annekasillitoe.github.io) | [LinkedIn](https://uk.linkedin.com/in/annekasillitoe) | [Email](mailto:annekasillitoe@gmail.com) | [Twitter](https://twitter.com/annekasillitoe)
 
 ## INTERESTS
 
