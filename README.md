@@ -1,12 +1,12 @@
 # CV - Anneka Sillitoe
 
-I am a developer who likes writing Javascript and Node.js. I enjoy working on different parts of the stack such as the front-end logic, querying databases and writing RESTful APIs. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements.
+I am a developer who likes writing javascript, Node and React. I enjoy working on different parts of the stack from front-end to back-end, but ultimately find I probably gravitate slightly more towards the front-end. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements.
 
-Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming paradigms, and by studying the approaches of other developers.
+Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming skills, and by studying the approaches of other developers.
 
 ## SKILLS
 
-I have been working on a variety of projects for clients, using the following technologies:
+I have been working on a variety of projects, using the following technologies:
 
 Front-End Development:
 
@@ -37,26 +37,18 @@ Tools/Environments/Source:
 * QUnit
 * TravisCl
 
-## PROJECTS
-
-
-
-### SOME OPEN SOURCE CONTRIBUTIONS / OTHER
-
-
-
 Founders & Coders:
 ### Full Stack Freelance Developer (August 2016 - Present)
 
 Worked on MVPs and projects to create web applications for clients across the UK.
 
-10-Week Intensive Web Development Course (June 2016 - August 2015)
+16-Week Intensive Web Development Course (June 2016 - September 2015)
 
-Worked on a range of projets in different teams, fulfilling different roles each time.
+Worked on a range of projects in different teams, fulfilling different roles each time.
 As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
 I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
-### Freelance Front-End Web Developer (January 2016 - June 2016)
+### Freelance Front-End Web Developer (January 2016 - Present)
 
 Built KallKwik Romford's B2C online sales site using HTML, CSS, Javascript and SagePay based on their wireframes.
 
@@ -96,7 +88,7 @@ Final projects included:
 Dissertation: 'Females in Motorsport: The Athlete and Journalists Battle for Acceptance'
 Website running of 'Westminster News Online' creating content, updating the site and social media running. Plus using InDesign to create a newspaper spin-off from the site.
 Documenting and creating a portfolio for the start up of a magazine from costing through to possible production.
-Modules included, but were not limited to: Media Transformations, Network Society and the Media, Advanced Online Media, Media Work Experience and Cultural Industries and Media Markets.
+Modules included, but were not limited to: Media Transformations, Network, Society and the Media, Advanced Online Media and Cultural Industries and Media Markets.
 
 ## LINKS
 
@@ -104,4 +96,4 @@ Modules included, but were not limited to: Media Transformations, Network Societ
 
 ## INTERESTS
 
-Pro Wrestling, rock music, video games, tech, WWE, Pokémon, Disney, photography, Going to gigs, Gym, Formula One, Skatebaording, BMX, Rally, NBA, Art, Design, Reading, Writing, Travel, Movies, TV, Books, Cooking, Fashion
+Pro Wrestling, rock music, video games, tech, WWE, Pokémon, Disney, fitness, F1, X-Games, NBA, animation, design, reading, travel, movies, TV, books, cooking, fashion
