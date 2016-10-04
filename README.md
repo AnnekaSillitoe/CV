@@ -70,12 +70,8 @@ Arranging label and roster events - planning and production
 
 ### Freelance Press Assistant - Carry the 4 PR & Marketing (October 2013 - February 2014)
 
-Writing weekly coverage reports
-A&R: Scouting for new talent for the Carry the 4 roster
-Producing press releases for artists and record labels on the roster
-Contacting press from all over the world to secure coverage for the roster (Including: the UK, the US, Australian and Japanese markets)
-Updating databases
-Working to arrange brand sponsored team ups and endorsements for the roster
+Based in Brighton, I worked remotely with the Carry the 4 team, producing press releases for bands and record labels on the roster.
+I also worked to contact brands to create partnerships and endorsements for different bands, as well as contacting national/international press to secure physical and online coverage. 
 
 ## EDUCATION
 
