@@ -41,7 +41,7 @@ Tools/Environments/Source:
 
 Worked on MVPs and projects to create web applications for clients across the UK.
 
-16-Week Intensive Web Development Course (June 2016 - September 2015)
+16-Week Intensive Web Development Course (June 2016 - September 2016)
 
 Worked on a range of projects in different teams, fulfilling different roles each time.
 As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
