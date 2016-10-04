@@ -69,7 +69,7 @@ PR: Arranging press coverage, national and international for the label roster an
 Social media/marketing for record label
 Arranging label and roster events - planning and production
 
-### Freelance Press Assistant - Carry the 4 PR & Marketing (November 2013 - February 2014)
+### Freelance Press Assistant - Carry the 4 PR & Marketing (October 2013 - February 2014)
 
 Writing weekly coverage reports
 A&R: Scouting for new talent for the Carry the 4 roster
