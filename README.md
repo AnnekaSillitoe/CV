@@ -37,8 +37,7 @@ Tools/Environments/Source:
 * QUnit
 * TravisCl
 
-Founders & Coders:
-### Full Stack Freelance Developer (August 2016 - Present)
+### Full Stack Freelance Developer (August 2016 - Present) - Founders and Coders
 
 Worked on MVPs and projects to create web applications for clients across the UK.
 
@@ -48,7 +47,7 @@ Worked on a range of projects in different teams, fulfilling different roles eac
 As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
 I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
-### Freelance Front-End Web Developer (January 2016 - Present)
+### Freelance Front-End Web Developer (January 2016 - June 2016)
 
 Built KallKwik Romford's B2C online sales site using HTML, CSS, Javascript and SagePay based on their wireframes.
 
