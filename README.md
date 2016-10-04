@@ -56,7 +56,6 @@ Built KallKwik Romford's B2C online sales site using HTML, CSS, Javascript and S
 To review both live events and recorded articles.
 To write pieces for the website and magazine.
 To interview bands, artists and anyone else for the magazine and website.
-Can type up to 80wpm.
 Daily running of the business involves analysis of figures, contacting record label and events PR, organising press passes and assigning tasks for department heads, organising of spreadsheets and keeping the databases up to date
 Introduction of new features for the magazine site
 Increase in social media use to drive traffic to the main site.
