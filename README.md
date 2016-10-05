@@ -1,8 +1,9 @@
 # CV - Anneka Sillitoe
 
-I am a developer who likes writing javascript, Node and React. I enjoy working on different parts of the stack from front-end to back-end. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements.
+I am a developer who likes writing javascript, especially using Node and React. I also really enjoy CSS (particularly SASS). I enjoy working on different parts of the stack from front-end to back-end. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements.
 
 Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming skills, and by studying the approaches of other developers.
+
 
 ## SKILLS
 
