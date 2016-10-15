@@ -36,7 +36,7 @@ Tools/Environments/Source:
 * Heroku
 * Tape
 * QUnit
-* TravisCl
+* TravisCI
 
 ### Full Stack Freelance Developer (August 2016 - Present) - Founders and Coders
 
