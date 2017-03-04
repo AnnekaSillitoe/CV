@@ -1,6 +1,6 @@
 # CV - Anneka Sillitoe
 
-I am a developer who likes writing javascript, especially using Node and React. I also really enjoy CSS (particularly SASS). I enjoy working on different parts of the stack from front-end to back-end. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements.
+I am a front-end developer who loves working with React, Angular and other javascript frameworks. I'm also fond of using Node and love using SASS with my CSS and HTML.
 
 Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming skills, and by studying the approaches of other developers.
 
@@ -16,6 +16,7 @@ Front-End Development:
 * HTML5
 * CSS3
 * React.js
+* Angular
 * Sass
 * Handlebars
 * Bootstrap
@@ -28,17 +29,17 @@ Back-End Development:
 * Postgres
 * Redis
 * RestAPIs
+* Express
 
-Tools/Environments/Source:
+### Front-End Developer (November 2016 - Present) - Iron Group
 
-* Markdown
-* Git
-* Heroku
-* Tape
-* QUnit
-* TravisCI
+Working across a range of products using Sketch for wireframing and templating, as well as building sites using HTML, SASS, Angular, Javascript and API's from the back end built in PHP.
 
-### Full Stack Freelance Developer (June 2016 - Present) - Founders and Coders
+Building sites for clients using Wordpress.
+
+Building the front end of the companies internal back office system using Angular, SASS, HTML and Javascript.
+
+### Full Stack Freelance Developer (June 2016 - October 2016) - Founders and Coders
 
 Worked on MVPs and projects to create web applications for clients across the UK.
 
@@ -50,20 +51,19 @@ As well as learning the skills outlined, I learned test driven development, agil
 
 I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
-### Freelance Front-End Web Developer (January 2016 - Present)
+### Freelance Front-End Web Developer (January 2016 - Present) - Kallkwik
 
 Built KallKwik Romford's B2C online sales site using HTML, CSS, Javascript and SagePay based on their wireframes.
 
-### Music Journalist, News Reporter and Editor (June 2009 - March 2016)
+### Music Journalist, News Reporter and Editor (June 2009 - March 2016) - Soundscape Magazine
 
-To review both live events and recorded articles.
 To write pieces for the website and magazine.
 To interview bands, artists and anyone else for the magazine and website.
 Daily running of the business involves analysis of figures, contacting record label and events PR, organising press passes and assigning tasks for department heads, organising of spreadsheets and keeping the databases up to date
 Introduction of new features for the magazine site
 Increase in social media use to drive traffic to the main site.
 
-### PR & Marketing Label Assistant - Acid Jazz Records (June 2014 - January 2015)
+### PR & Marketing Label Assistant (June 2014 - January 2015) - Acid Jazz Records
 
 In house PR: Production of the monthly label newsletter with includes exclusive content for subscribers
 Working on production of exclusive and unique interviews with the label roster, arranging behind the scenes coverage at video shoots, content exclusive to the newsletter subscribers
@@ -71,7 +71,7 @@ PR: Arranging press coverage, national and international for the label roster an
 Social media/marketing for record label
 Arranging label and roster events - planning and production
 
-### Freelance Press Assistant - Carry the 4 PR & Marketing (October 2013 - February 2014)
+### Freelance Press Assistant (October 2013 - February 2014) - Carry the 4 PR & Marketing
 
 Based in Brighton, I worked remotely with the Carry the 4 team, producing press releases for bands and record labels on the roster.
 I also worked to contact brands to create partnerships and endorsements for different bands, as well as contacting national/international press to secure physical and online coverage. 
@@ -93,4 +93,4 @@ Modules included, but were not limited to: Media Transformations, Network, Socie
 
 ## INTERESTS
 
-Pro Wrestling, rock music, video games, tech, WWE, Pokémon, Disney, fitness, F1, X-Games, NBA, animation, design, reading, travel, movies, TV, books, cooking, fashion
+Pro Wrestling, rock music, video games, tech, WWE, Pokémon, Disney, fitness, F1, X-Games, NBA, animation, reading, travel, movies, TV, books
