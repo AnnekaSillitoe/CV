@@ -51,7 +51,7 @@ As well as learning the skills outlined, I learned test driven development, agil
 
 I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
-### Freelance Front-End Web Developer (January 2016 - Present) - Kallkwik
+### Freelance Front-End Web Developer (January 2016 - May 2016) - Kallkwik
 
 Built KallKwik Romford's B2C online sales site using HTML, CSS, Javascript and SagePay based on their wireframes.
 
