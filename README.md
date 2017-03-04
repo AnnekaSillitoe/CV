@@ -9,27 +9,60 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 I have been working on a variety of projects, using the following technologies:
 
-Front-End Development:
+<table>
+<tr>
+<th>Front-EndDevelopment</th>
+<th>Back-End Developement</th>
+<th>Tools</th>
+</tr>
 
-* Javascript
-* jQuery
-* HTML5
-* CSS3
-* React.js
-* Angular
-* Sass
-* Handlebars
-* Bootstrap
+<tr>
+<td>Javascript</td>
+<td>Node.js</td>
+<td>Markdown</td>
+</tr>
 
-Back-End Development:
+<tr>
+<td>jQuery</td>
+<td>Hapi.js</td>
+<td>Git</td>
+</tr>
 
-* Node.js
-* Hapi.js
-* SQL
-* Postgres
-* Redis
-* RestAPIs
-* Express
+<tr>
+<td>HTML5</td>
+<td>SQL</td>
+<td>Github</td>
+</tr>
+
+<tr>
+<td>CSS3</td>
+<td>Postgres</td>
+<td>Gitlab</td>
+</tr>
+
+<tr>
+<td>React</td>
+<td>Redis</td>
+</tr>
+
+<tr>
+<td>Angular</td>
+<td>RestAPIs</td>
+</tr>
+
+<tr>
+<td>Sass</td>
+<td>Express</td>
+</tr>
+
+<tr>
+<td>Handlebars</td>
+</tr>
+
+<tr>
+<td>Bootstrap</td>
+</tr>
+</table>
 
 ### Front-End Developer (November 2016 - Present) - Iron Group
 
