@@ -62,26 +62,33 @@ I have been working on a variety of projects, using the following technologies:
 <tr>
 <td>Bootstrap</td>
 </tr>
+
+<tr>
+<td>Redux</td>
+</tr>
+
+<tr>
+<td>Flexbox</td>
+</tr>
 </table>
 
-### Front-End Developer (November 2016 - Present) - Iron Group
+### Front-End Developer (May 2017 - Present) - Social Finance Digital Labs
+
+Building products that empower people to solve entrenched social problems using React/Redux, HTML5, ES2015/2016, SASS, CSS3, Bootstrap 3/4, jQuery, Flexbox.
+Working in Agile fortnightly sprints.
+
+### Front-End Developer (November 2016 - May 2017) - Iron Group
 
 Working across a range of products using Sketch for wireframing and templating, as well as building sites using HTML, SASS, Angular, Javascript and API's from the back end built in PHP.
-
 Building sites for clients using Wordpress.
-
 Building the front end of the companies internal back office system using Angular, SASS, HTML and Javascript.
 
 ### Full Stack Freelance Developer (June 2016 - October 2016) - Founders and Coders
 
 Worked on MVPs and projects to create web applications for clients across the UK.
-
 16-Week Intensive Web Development Course.
-
 Worked on a range of projects in different teams, fulfilling different roles each time.
-
 As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
-
 I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
 ### Freelance Front-End Web Developer (January 2016 - May 2016) - Kallkwik
@@ -122,7 +129,7 @@ Modules included, but were not limited to: Media Transformations, Network, Socie
 
 ## LINKS
 
-[Website](https://annekasillitoe.github.io) | [LinkedIn](https://uk.linkedin.com/in/annekasillitoe) | [Email](mailto:annekasillitoe@gmail.com) | [Twitter](https://twitter.com/annekasillitoe)
+[Website](https://annekasillitoe.github.io) | [LinkedIn](https://uk.linkedin.com/in/annekasillitoe) | [Email](mailto:annekasillitoe@gmail.com) | [Twitter](https://twitter.com/annekasillitoe) | [Medium](https://medium.com/@annekasillitoe)
 
 ## INTERESTS
 
