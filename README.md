@@ -88,7 +88,7 @@ Building the front end of the companies internal back office system using Angula
 Worked on MVPs and projects to create web applications for clients across the UK.
 16-Week Intensive Web Development Course.
 Worked on a range of projects in different teams, fulfilling different roles each time.
-As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
+As well as learning a range of skills, I learned test driven development, agile methodologies and pair programming.
 I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
 ### Freelance Front-End Web Developer (January 2016 - May 2016) - Kallkwik
@@ -118,7 +118,7 @@ I also worked to contact brands to create partnerships and endorsements for diff
 
 ## EDUCATION
 
-BA Hons Journalism 2:1 (2010 - 2013) - University of Westminster
+### BA Hons Journalism 2:1 (2010 - 2013) - University of Westminster
 
 Worked on a host of projects across Journalism, Communications, PR and marketing.
 Final projects included:
@@ -126,6 +126,9 @@ Dissertation: 'Females in Motorsport: The Athlete and Journalists Battle for Acc
 Website running of 'Westminster News Online' creating content, updating the site and social media running. Plus using InDesign to create a newspaper spin-off from the site.
 Documenting and creating a portfolio for the start up of a magazine from costing through to possible production.
 Modules included, but were not limited to: Media Transformations, Network, Society and the Media, Advanced Online Media and Cultural Industries and Media Markets.
+
+### Full Stack Development Bootcamp(June 2016 – September 2016) - Founders & Coders C.I.C
+16 Week Intensive Bootcamp
 
 ## LINKS
 
