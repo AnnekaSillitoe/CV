@@ -11,65 +11,75 @@ I have been working on a variety of projects, using the following technologies:
 
 <table>
 <tr>
-<th>Front-EndDevelopment</th>
-<th>Back-End Developement</th>
-<th>Tools</th>
+  <th>Languages</th>
+  <th>Frameworks/Libraries</th>
+  <th>Testing</th>
+  <th>Databases</th>
+  <th>Design</th>
+  <th>Tools</th>
+  <th>Other</th>
 </tr>
 
 <tr>
-<td>Javascript</td>
-<td>Node.js</td>
-<td>Markdown</td>
+  <td>Javascript</td>
+  <td>React.js</td>
+  <td>Jest</td>
+  <td>PostgreSQL</td>
+  <td>Sketch</td>
+  <td>Git</td>
+  <td>Accessibility</td>
 </tr>
 
 <tr>
-<td>jQuery</td>
-<td>Hapi.js</td>
-<td>Git</td>
+  <td>HTML5</td>
+  <td>Angular.js</td>
+  <td>Jasmine</td>
+  <td>SQL</td>
+  <td>InVision</td>
+  <td>Github</td>
+  <td>User Testing</td>
 </tr>
 
 <tr>
-<td>HTML5</td>
-<td>SQL</td>
-<td>Github</td>
+  <td>CSS3</td>
+  <td>Sass</td>
+  <td>Tape</td>
+  <td>Redis</td>
+  <td>MarvelApp</td>
+  <td>Gitlab</td>
+  <td>Agile</td>
 </tr>
 
 <tr>
-<td>CSS3</td>
-<td>Postgres</td>
-<td>Gitlab</td>
+  <td>Markdown</td>
+  <td>Node.js</td>
+  <td>Q-Unit</td>
+  <td></td>
+  <td>Photoshop</td>
+  <td>Webpack</td>
+  <td>Pair Programming</td>
 </tr>
 
 <tr>
-<td>React</td>
-<td>Redis</td>
+  <td></td>
+  <td>Handlebars</td>
+  <td></td>
+  <td></td>
+  <td>InDesign</td>
+  <td>Neutrino</td>
+  <td></td>
 </tr>
 
 <tr>
-<td>Angular</td>
-<td>RestAPIs</td>
+  <td></td>
+  <td>Express</td>
+  <td></td>
+  <td></td>
+  <td>InDesign</td>
+  <td></td>
+  <td></td>
 </tr>
 
-<tr>
-<td>Sass</td>
-<td>Express</td>
-</tr>
-
-<tr>
-<td>Handlebars</td>
-</tr>
-
-<tr>
-<td>Bootstrap</td>
-</tr>
-
-<tr>
-<td>Redux</td>
-</tr>
-
-<tr>
-<td>Flexbox</td>
-</tr>
 </table>
 
 ### Front-End Developer (May 2017 - Present) - Social Finance Digital Labs
@@ -129,6 +139,8 @@ Modules included, but were not limited to: Media Transformations, Network, Socie
 
 ### Full Stack Development Bootcamp(June 2016 – September 2016) - Founders & Coders C.I.C
 16 Week Intensive Bootcamp
+
+### UI/UX Design Courses (November 2017 - January 2018) - School of UX
 
 ## LINKS
 
