@@ -75,7 +75,7 @@ I have been working on a variety of projects, using the following technologies:
   <td>Express</td>
   <td></td>
   <td></td>
-  <td>InDesign</td>
+  <td></td>
   <td></td>
   <td></td>
 </tr>
